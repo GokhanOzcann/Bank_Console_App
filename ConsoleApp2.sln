@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{53E3F26C-2D1A-45A6-86C4-5601B72DBE51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dikdörtgen", "dikdörtgen\dikdörtgen.csproj", "{EBB052EB-7196-478E-9E8C-5B934B5CEA44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53E3F26C-2D1A-45A6-86C4-5601B72DBE51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E3F26C-2D1A-45A6-86C4-5601B72DBE51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E3F26C-2D1A-45A6-86C4-5601B72DBE51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E3F26C-2D1A-45A6-86C4-5601B72DBE51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBB052EB-7196-478E-9E8C-5B934B5CEA44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB052EB-7196-478E-9E8C-5B934B5CEA44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB052EB-7196-478E-9E8C-5B934B5CEA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB052EB-7196-478E-9E8C-5B934B5CEA44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F7BDFCF-89DD-4BB6-9089-164419F01DCD}
+	EndGlobalSection
+EndGlobal
